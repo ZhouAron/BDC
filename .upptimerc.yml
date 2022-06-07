@@ -5,8 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: Facebook
     url: https://www.facebook.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
+  - name: NCU
+    url: https://www.ncu.edu.tw/tw/index.html
   - name: Hacker News
     url: https://news.ycombinator.com
   - name: Youtube
