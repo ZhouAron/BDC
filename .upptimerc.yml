@@ -10,7 +10,7 @@ sites:
   - name: Hacker News
     url: https://news.ycombinator.com
   - name:Facebook
-    url: https://www.facebook.com/
+    url: https://www.facebook.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
