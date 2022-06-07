@@ -7,8 +7,8 @@ sites:
     url: https://www.facebook.com
   - name: NCU
     url: https://www.ncu.edu.tw/tw/index.html
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: ZhouAron.github.io
+    url: https://zhouaron.github.io/
   - name: Youtube
     url: https://www.youtube.com/?hl=zh-TW&gl=TW
   - name: Test Broken Site
