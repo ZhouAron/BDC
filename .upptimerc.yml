@@ -9,8 +9,8 @@ sites:
     url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
-  - name: Facebook
-    url: https://www.facebook.com
+  - name: Youtube
+    url: https://www.youtube.com/?hl=zh-TW&gl=TW
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
